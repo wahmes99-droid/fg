@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "d0bf44cc5f583445af1017a0a9594b6f"
+        "md5": "8105b176d5ce43fe710a0c87a280dc19"
     },
     {
         "path": "assets",
@@ -75,79 +75,49 @@
         "md5": false
     },
     {
-        "path": "authors/hbh",
+        "path": "authors/d",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/authors/hbh/index.html",
+        "path": "/authors/d/index.html",
         "type": "file",
-        "md5": "3ba42d9a214604cfa739ca4b49c9bddd"
-    },
-    {
-        "path": "creed-aventus-the-iconic-fragrance-that-redefined-luxury-and-masculinity",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/creed-aventus-the-iconic-fragrance-that-redefined-luxury-and-masculinity/index.html",
-        "type": "file",
-        "md5": "a0541046c95b6538a703baef99c7bbc2"
-    },
-    {
-        "path": "creed-aventus-the-ultimate-fragrance-of-power-success-and-timeless-elegance",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/creed-aventus-the-ultimate-fragrance-of-power-success-and-timeless-elegance/index.html",
-        "type": "file",
-        "md5": "a78d231bef847a51fc77fbbc1fe9644e"
+        "md5": "ea8b7da9dd84e27eca0b4dcbe906a06f"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f396c8d923e8eff3cfe0e63bcc4e1d98"
+        "md5": "af23031ed48a85ada8670bad25cc5690"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "48a99d455cd0e33c10f4d7450cb059e0"
-    },
-    {
-        "path": "fragrance-news-2025-discover-the-hottest-trends-breakthrough-innovations-and-market-transformations-in-the-world-of-perfume",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/fragrance-news-2025-discover-the-hottest-trends-breakthrough-innovations-and-market-transformations-in-the-world-of-perfume/index.html",
-        "type": "file",
-        "md5": "928a2c55d1671516fc6b542f56be94c4"
-    },
-    {
-        "path": "fragrance-news-2025-exploring-the-latest-perfume-trends-market-insights-and-innovations",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/fragrance-news-2025-exploring-the-latest-perfume-trends-market-insights-and-innovations/index.html",
-        "type": "file",
-        "md5": "798685c56a64c0abda8a497915cffa00"
-    },
-    {
-        "path": "fragrance-news-2025-the-latest-trends-innovations-and-industry-insights",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/fragrance-news-2025-the-latest-trends-innovations-and-industry-insights/index.html",
-        "type": "file",
-        "md5": "99abfb03c1030d0be21325c334f3a4b6"
+        "md5": "bfab9656b93fab231ef108b2975abec0"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1575e8b6fc6529e106950735e5977f23"
+        "md5": "dce4b969991a4036f108b933a0e3d92c"
+    },
+    {
+        "path": "ltqnyt-lhdyth-fy-fhs-kybl-khrb",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ltqnyt-lhdyth-fy-fhs-kybl-khrb/index.html",
+        "type": "file",
+        "md5": "f859c3e9aebbfed5e0e345ed522c1d38"
+    },
+    {
+        "path": "mmyzt-jr-fhs-kybl-khrb-bshkl-dwry",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mmyzt-jr-fhs-kybl-khrb-bshkl-dwry/index.html",
+        "type": "file",
+        "md5": "449759cc27f58e5771682a57b5f7dbde"
     },
     {
         "path": "robots.txt",
@@ -157,12 +127,22 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f4483cc51ace1746336b4844c586c4aa"
+        "md5": "16005ac554799ff06fac18902f234112"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "stkhdmt-fhs-kybl-khrb-fy-mkhtlf-lqtaat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/stkhdmt-fhs-kybl-khrb-fy-mkhtlf-lqtaat/index.html",
+        "type": "file",
+        "md5": "fc0c46da5f2a4e966a8f8c1908415618"
     },
     {
         "path": "tags",
@@ -172,6 +152,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "dfdc91e704723aff63a8c8b5976734dc"
+        "md5": "1e6becab6cc6c6976e6653f8a025c847"
     }
 ]
